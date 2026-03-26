@@ -1,0 +1,26 @@
+{
+  "short_name": "StampImg",
+  "name": "StampImg",
+  "description": "Stamp date, time and GPS coordinates onto your photos",
+  "start_url": "/pwa-stampimg",
+  "display": "standalone",
+  "theme_color": "#1e293b",
+  "background_color": "#1e293b",
+  "icons": [
+    {
+      "src": "https://dummyimage.com/16x16/1e293b/fff/?font=bebas&font_size=16&text=S",
+      "sizes": "16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://dummyimage.com/192x192/1e293b/fff/?font=bebas&font_size=192&text=S",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://dummyimage.com/512x512/1e293b/fff/?font=bebas&font_size=512&text=S",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
